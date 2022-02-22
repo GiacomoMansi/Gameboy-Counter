@@ -1,4 +1,4 @@
-Gameboy Coynter License
+MIT License
 
 Copyright (c) 2022 Giacomo Mansi
 
