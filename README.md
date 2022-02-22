@@ -2,7 +2,7 @@
 GameBoy Counter is a counter inspired to the Gameboy Color. <br>
 With the button "+" you can increase the value. <br>
 With the button "-" you can decrase the value. <br>
-With the button "-" you can reset the value. <br>
+With the button "Reset" you can reset the value. <br>
 
 ## How to use it 
 
