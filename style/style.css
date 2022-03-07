@@ -173,4 +173,8 @@ a:hover {
 .body {
     margin-top: 50px;
 }
+.logo-write {
+    position: relative;
+    top: 57px;
+}
 }
